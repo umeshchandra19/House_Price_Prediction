@@ -1,0 +1,14 @@
+{
+  "n_rows": 20640,
+  "n_train": 16512,
+  "n_test": 4128,
+  "selected_model": "Decision Tree (tuned)",
+  "best_tree_params": {
+    "model__max_depth": 11,
+    "model__min_samples_leaf": 10
+  },
+  "seed": 42,
+  "drop_capped": false,
+  "quick": false,
+  "sklearn_note": "numbers in results/ come from this run"
+}

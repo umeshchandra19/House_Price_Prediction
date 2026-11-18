@@ -1,0 +1,20 @@
+{
+  "n_rows": 20640,
+  "n_columns": 10,
+  "missing_values": {
+    "total_bedrooms": 207
+  },
+  "duplicate_rows": 0,
+  "capped_price_rows": 965,
+  "capped_price_share_pct": 4.68,
+  "price_min": 14999.0,
+  "price_median": 179700.0,
+  "price_max": 500001.0,
+  "ocean_proximity_counts": {
+    "<1H OCEAN": 9136,
+    "INLAND": 6551,
+    "NEAR OCEAN": 2658,
+    "NEAR BAY": 2290,
+    "ISLAND": 5
+  }
+}

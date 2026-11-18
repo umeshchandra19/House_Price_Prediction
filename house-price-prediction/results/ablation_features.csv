@@ -1,0 +1,5 @@
+model,new_features,cv_r2,cv_rmse
+Linear Regression,no,0.6417390402404755,69240.62271317586
+Linear Regression,yes,0.64897918676615,68536.3768593999
+Decision Tree (tuned settings),no,0.7340413192581139,59648.87191545918
+Decision Tree (tuned settings),yes,0.7356122398082764,59477.52593199549
